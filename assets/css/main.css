@@ -61,11 +61,10 @@ nav a img {
 /*-----header-----*/
 header {
     margin: 150px 0 150px 0;
-    text-align: left;
-    margin-left: 60px;
+    text-align: center;
 }
 header p {
-    margin-left: 60px;
+    margin: 30px auto 0 auto;
     font-size: 20px
 }
 header a {
