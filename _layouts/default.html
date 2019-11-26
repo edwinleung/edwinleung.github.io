@@ -1,10 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<!-- get on correct post or first if we don't have one -->
+{% if page.collection %}
+    {% assign current = page %}
+{% else %}
+    {% assign current = site.posts[0] %}
+{% endif %}
 <head>
     <title>edwin leung</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial scale=1.0">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% if page.robots %}
+    	<meta name="robots" content="{{ page.robots }}" />
+	{% endif %}
+	{{ seo }}
 </head>    
 <body>
     <div class="wrapper">
