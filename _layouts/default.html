@@ -37,7 +37,76 @@
             <h1>Edwin Leung // UX Designer</h1>
             <p> Hi! I'm a UX designer with a passion for creating designs that spark joy.<br> Happy to work with you, just send me an <a href="#">email.</a></p>
         </header>
-			
+		
+	<div class="wrapper container">
+
+		<section>
+			{% if current.thumbnail %}
+                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
+            {% endif %}
+            <div id="title">
+				<h1>{{ current.title }}</h1>
+				<hr>
+			</div>
+
+			{{ current.content }}
+
+		</section>
+		<section>
+			{% for i in (1..2) %}
+                <div class="row">
+                    {% assign offset = forloop.index0 | times: 3 %}
+                    {% assign posts = site.posts | where_exp:"post","post.url != current.url" %}
+                    {% for post in posts limit:3 offset:offset %}
+                        <div class="col-md-4">
+                            <div class="card text-white bg-primary mb-3">
+                                <div class="card-header">{{ post.title }}</div>
+                                <div class="card-body">
+                                    <a href="{{ post.url }}">
+                                        {% if post.thumbnail %}
+                                            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
+                                        {% endif %}
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                    {% endfor %}
+                </div>
+			{% endfor %}
+		</section>
+		<section>
+			{% for static in site.pages %}
+                {% if static.id %}
+                    <div id="{{ static.id }}">
+                    {% if static.thumbnail %}
+                        <img src="{{ static.thumbnail }}" alt="{{ static.title }}" title="{{ static.title }}" />
+                    {% endif %}
+                    <div id="title">
+                        <h1>{{ static.title }}</h1>
+                        <hr>
+                    </div>
+
+                    {{ static.content }}
+                    </div>
+
+                {% endif %}
+			{% endfor %}
+		</section>
+		
+	</div>
+	<script>
+		if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+                });
+            }
+            });
+        }
+	</script>	    
+	    
         <div class="work">
             <a href="#"><img src="/images/uploads/01.png" alt="project image"></a>
             <a href="#"><img src="images/02.png" alt="project image"></a>
