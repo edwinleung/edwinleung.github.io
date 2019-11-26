@@ -38,7 +38,7 @@
             <p> Hi! I'm a UX designer with a passion for creating designs that spark joy.<br> Happy to work with you, just send me an <a href="#">email.</a></p>
         </header>
 	    
-<div class="wrapper container">
+	<div class="wrapper container">
 
 		<section>
 			{% if current.thumbnail %}
@@ -73,6 +73,22 @@
                         </div>
                     {% endfor %}
                 </div>
+			{% endfor %}
+		</section>
+		<section>
+			{% for static in site.pages %}
+                {% if static.id %}
+                    <div id="{{ static.id }}">
+                    {% if static.thumbnail %}
+                        <img src="{{ static.thumbnail }}" alt="{{ static.title }}" title="{{ static.title }}" />
+                    {% endif %}
+                    <div id="title">
+                        <h1>{{ static.title }}</h1>
+                        <hr>
+                    </div>
+
+                    {{ static.content }}
+                    </div>
 			
         <div class="work">
             <a href="#"><img src="/images/uploads/01.png" alt="project image"></a>
