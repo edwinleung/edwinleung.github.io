@@ -53,11 +53,7 @@
 
 		</section>
 		<section>
-			{% for i in (1..2) %}
-                <div class="work">
-  		{% assign offset = forloop.index0 | times: 3 %}
-                    {% assign posts = site.posts | where_exp:"post","post.url != current.url" %}
-                   	{% for post in posts limit:3 offset:offset %}
+		
                         <div class="col-md-4">
                             <div class="card text-white bg-primary mb-3">
                                 <div class="card-header">{{ post.title }}</div>
