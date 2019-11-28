@@ -7,6 +7,4 @@ myangle: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam sed
   mauris sit amet dictum. Aliquam fermentum sagittis mauris, ut.
 ---
-![](/images/uploads/creativity-hub-sketch.png)
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam sed mauris sit amet dictum. Aliquam fermentum sagittis mauris, ut.
