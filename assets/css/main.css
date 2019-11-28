@@ -74,7 +74,7 @@ header a {
 
 /*-----work-----*/
 .card-header {
-    text-align: center;
+    text-align: left;
     width: 100%;
 }
 .card-body a img {
