@@ -73,11 +73,11 @@ header a {
 }
 
 /*-----work-----*/
-.work {
+.wrapper container {
     text-align: center;
     width: 100%;
 }
-.work a img {
+.card-body a img {
     margin: 1%;
     width: 45%;
 }
