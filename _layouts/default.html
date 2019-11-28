@@ -54,7 +54,7 @@
 		</section>
 		<section>
 			{% for i in (1..2) %}
-                <div class="work">
+                <div class="row">
   		{% assign offset = forloop.index0 | times: 3 %}
                     {% assign posts = site.posts | where_exp:"post","post.url != current.url" %}
                    	{% for post in posts limit:3 offset:offset %}
