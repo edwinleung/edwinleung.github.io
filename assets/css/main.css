@@ -76,6 +76,7 @@ header a {
 .card-header {
     text-align: left;
     width: 100%;
+    font-weight: bold;
 }
 .card-body a img {
     margin: 1%;
