@@ -52,16 +52,18 @@
 			<div class="col-md-6">
 				<div class="work">
 	{% if current.thumbnail %}
-                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
+                <img style="float: right;" src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
             {% endif %}
 			</div>
 		</section>
+			<div style="clear: right">
 		<section class="row">
 			{% if current.myangle %}
 			<h2> My Angle </h2>
 			<p>{{ current.myangle }}</p>
 	{% endif %}
 		</section>
+			</div>
 		
 		<br>
 		<section>
