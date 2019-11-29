@@ -74,10 +74,13 @@
                                     <a href="{{ post.url }}">
                                         {% if post.preview %}
                                             <img src="{{ post.preview }}" alt="{{ post.title }}" title="{{ post.title }}" />
-                                        {% endif %}
+                                        	{% else %}
+					    (Click here to learn more)
+					    {% endif %}
                                     </a>
                                 </div>
                             </div>
+				
                         </div>
                     {% endfor %}
                 </div>
