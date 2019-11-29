@@ -90,26 +90,7 @@
                 </div>
 			{% endfor %}
 		</section>
-		<section>
-			{% for static in site.pages %}
-                {% if static.id %}
-                    <div id="{{ static.id }}">
-                    {% if static.thumbnail %}
-                        <img src="{{ static.thumbnail }}" alt="{{ static.title }}" title="{{ static.title }}" />
-                    {% endif %}
-                    <div id="title">
-                        <h1>{{ static.title }}</h1>
-                        <hr>
-                    </div>
 
-                    {{ static.content }}
-                    </div>
-
-                {% endif %}
-			{% endfor %}
-		</section>
-		
-	</div>
 	<script>
 		if (window.netlifyIdentity) {
             window.netlifyIdentity.on("init", user => {
