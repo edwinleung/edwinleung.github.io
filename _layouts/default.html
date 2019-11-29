@@ -70,6 +70,7 @@
                     {% assign posts = site.posts | where_exp:"post","post.url != current.url" %}
                    	{% for post in posts limit:3 offset:offset %}
                         <div class="col-md-4">
+			<div class="work">
                             <div class="card text-white bg-primary mb-3">
                                 <div class="card-header">{{ post.title }}</div>
                                 <div class="card-body">
