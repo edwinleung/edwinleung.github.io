@@ -1,7 +1,5 @@
 ---
 layout: default
 title: Contact
-id: contact
 ---
-
-This is my contact page!!!!
+edwinleung310@gmail.com
