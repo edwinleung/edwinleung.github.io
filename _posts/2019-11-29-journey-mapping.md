@@ -7,4 +7,4 @@ myangle: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam sed
   mauris sit amet dictum. Aliquam fermentum sagittis mauris, ut.
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam sed mauris sit amet dictum. Aliquam fermentum sagittis mauris, ut.
+> was created in a team of 3 for a design sprint held at Bridgeable.
