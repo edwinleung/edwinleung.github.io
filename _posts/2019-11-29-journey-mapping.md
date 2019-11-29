@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JOURNEY MAPPING
+title: COURSE REGISTRATION JOURNEY MAP
 date: '2019-11-29 12:46:43'
 thumbnail: /images/uploads/img_1514.jpg
 myangle: >-
