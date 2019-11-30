@@ -58,7 +58,9 @@ nav a img {
 .navIcons {
     float: right;
 }
-
+.navIcons:hover {
+    color: #FF4A5E;
+}
 /*-----header-----*/
 header {
     margin: 150px 0 440px 50px;
