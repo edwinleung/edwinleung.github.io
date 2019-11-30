@@ -41,6 +41,7 @@
 	<div class="wrapper container">
 
 		<section class="row">
+			<a id="work"> </a>
 	<div class="col-md-6">		
 	<div id="title">
 				<h1>{{ current.title }}</h1>
@@ -68,7 +69,7 @@
 		
 		<br>
 		<section>
-			<a id="work"> </a>
+			
 			{% for i in (1..2) %}
                 <div class="row">
   		{% assign offset = forloop.index0 | times: 3 %}
