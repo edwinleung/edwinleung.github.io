@@ -51,21 +51,22 @@ nav a {
     text-decoration: none;
     font-size: 15px;
     margin-left: 60px;
-}
-nav a img {
-    vertical-align: middle;
-}
-.navIcons {
-    float: right;
     -webkit-transition: color 1s;
     -moz-transition:    color 1s;
     -ms-transition:     color 1s;
     -o-transition:      color 1s;
     transition:         color 1s;
 }
-.navIcons:hover {
+nav a img {
+    vertical-align: middle;
+}
+nav a:hover {
     color: #FF4A5E;
 }
+.navIcons {
+    float: right;
+}
+
 /*-----header-----*/
 header {
     margin: 150px 0 440px 50px;
