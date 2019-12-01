@@ -70,7 +70,7 @@ nav a:hover {
 
 /*-----header-----*/
 header {
-    margin: 150px 0 440px 50px;
+    margin: 150px 0 150px 50px;
 }
 header p {
     margin: 30px auto 0 auto;
@@ -85,6 +85,7 @@ header a {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 100px;
 }
 
 /*-----work-----*/
