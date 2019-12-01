@@ -15,7 +15,9 @@ myangle: >-
   the five steps amongst each other so that we could work on the rest of the
   journey map. This included supporting data and a user experience
   chart.<br><br>Even though we worked on separate stages, I would help my other
-  members and receive help if we ever needed it.
+  members and receive help if we ever needed it.<br><br>The goal of the course
+  registration journey map was not to solve the perceived problem, but rather
+  come up with the actual problem.
 ---
 > Bridgeable Event 2019
 >
