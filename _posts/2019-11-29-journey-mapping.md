@@ -7,4 +7,6 @@ myangle: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquam sed
   mauris sit amet dictum. Aliquam fermentum sagittis mauris, ut.
 ---
-> <br>was created in a team of 3 for a design sprint held at Bridgeable.
+> Bridgeable Event 2019
+>
+> <br>A visualization of an experience created in a team of 3 for a design sprint.
