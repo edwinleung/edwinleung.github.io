@@ -10,7 +10,12 @@ myangle: >-
   it can be improved. <br><br>The annual UX Design trip that Laurier has for
   its' students brought us to Bridgeable, where we were given the task of
   creating a journey map for course registration. Needless to say, I was
-  thrilled.<br><br>
+  thrilled.<br><br>We began by recalling our personal experiences with course
+  registration, and creating five steps that it would take. Then, we split up
+  the five steps amongst each other so that we could work on the rest of the
+  journey map. This included supporting data and a user experience
+  chart.<br><br>Even though we worked on separate stages, I would help my other
+  members and receive help if we ever needed it.
 ---
 > Bridgeable Event 2019
 >
