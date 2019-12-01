@@ -8,7 +8,12 @@ myangle: >-
   for the development of the campus. I have always wondered what Laurier was
   going to do with the space because it is such a spacious building.
   <br><br>Design Thinking I connected my group with Laurier faculty members to
-  re-design Market Square as a creative space.
+  re-design Market Square as a maker space for storytelling.<br><br>The first
+  stage of research that we conducted was a brain-dump on the term
+  "storytelling." This helped us remove any biases that we had when we moved
+  onto our second stage of research: user interviews. We produced a small
+  questionnaire and went around campus asking students from various programs
+  what they would like to see in this potential space.<br><br>
 ---
 Design Thinking I Course 2019
 
