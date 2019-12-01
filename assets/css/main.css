@@ -81,6 +81,11 @@ header a {
     color: #FF4A5E;
     text-decoration: none;
 }
+.arrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /*-----work-----*/
 .card-header {
