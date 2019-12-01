@@ -9,10 +9,10 @@ myangle: >-
   goal in a creative manner. Thus, I was inspired to create a logo that could
   help viewers better understand who I am as a person.<br><br><br><br><p
   style="margin-left: 40px">If I were to introduce myself, what would I
-  say?</p><br><br><br><br>I asked myself this question because I wanted the
+  say?</p><br><br><br><br><p> I asked myself this question because I wanted the
   first interaction between my logo and viewer to reflect how I would interact
   with them in person.<br><br>My answer to this question would be to say my
-  name. This got me thinking about my Chinese name: 梁子正
+  name. This got me thinking about my Chinese name: 梁子正</p>
 ---
 Personal 2019
 
