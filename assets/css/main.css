@@ -89,6 +89,10 @@ header a {
 }
 
 /*-----work-----*/
+.title {
+    margin-top: 50px;
+}
+
 .card-header {
     margin-top: 50px;
     text-align: left;
