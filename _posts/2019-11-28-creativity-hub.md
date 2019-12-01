@@ -10,10 +10,13 @@ myangle: >-
   <br><br>Design Thinking I connected my group with Laurier faculty members to
   re-design Market Square as a maker space for storytelling.<br><br>The first
   stage of research that we conducted was a brain-dump on the term
-  "storytelling." This helped us remove any biases that we had when we moved
-  onto our second stage of research: user interviews. We produced a small
+  "storytelling." This helped us remove any biases we had before we moved onto
+  our second stage of research: user interviews. We produced a small
   questionnaire and went around campus asking students from various programs
-  what they would like to see in this potential space.<br><br>
+  what they would like to see in this potential space.<br><br>Halfway through
+  our design, we met up with our clients to share our findings and our projected
+  outcome. Sharing ideas with our clients ensured that we were on the same page,
+  and that both parties would feel positive about what is to follow.
 ---
 Design Thinking I Course 2019
 
