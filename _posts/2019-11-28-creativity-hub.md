@@ -21,7 +21,7 @@ myangle: >-
   positive about what is to follow.<br><br>In order to better visualize the
   physical space, one of my group members, Taniya, produced a 3D model of our
   pitch. In addition, we kept all of our research and sketches to show our
-  clients the iterative process and how we came to our final idea.
+  clients the iterative process and how we came to our final iteration.
 ---
 Design Thinking I Course 2019
 
