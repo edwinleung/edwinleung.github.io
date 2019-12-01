@@ -13,10 +13,15 @@ myangle: >-
   "storytelling." This helped us remove any biases we had before we moved onto
   our second stage of research: user interviews. We produced a small
   questionnaire and went around campus asking students from various programs
-  what they would like to see in this potential space.<br><br>Halfway through
-  our design, we met up with our clients to share our findings and our projected
-  outcome. Sharing ideas with our clients ensured that we were on the same page,
-  and that both parties would feel positive about what is to follow.
+  what they would like to see in this potential space. We tried to ask a variety
+  of students because we wanted the space to be open to all
+  individuals.<br><br>Halfway through our design, we met up with our clients to
+  share our findings and our projected outcome. Sharing ideas with our clients
+  ensured that we were on the same page, and that both parties would feel
+  positive about what is to follow.<br><br>In order to better visualize the
+  physical space, one of my group members, Taniya, produced a 3D model of our
+  pitch. In addition, we kept all of our research and sketches to show our
+  clients the iterative process and how we came to our final idea.
 ---
 Design Thinking I Course 2019
 
