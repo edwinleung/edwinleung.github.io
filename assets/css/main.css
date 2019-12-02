@@ -70,12 +70,8 @@ nav a:hover {
 
 /*-----header-----*/
 header {
-
     margin: 150px 0 300px 50px;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-}
+
 }
 header p {
     margin: 30px auto 0 auto;
