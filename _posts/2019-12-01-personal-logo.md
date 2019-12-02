@@ -12,7 +12,7 @@ myangle: >-
   say?</p><br><br><br><br><p> I asked myself this question because I wanted the
   first interaction between my logo and viewer to reflect how I would interact
   with them in person.<br><br>My answer to this question would be to say my
-  name. This got me thinking about my Chinese name: 梁子正<br><br>As I was looking
+  name. This had me thinking about my Chinese name: 梁子正<br><br>As I was looking
   at my Chinese name, I noticed that the last character resembled the letter
   "E".  After consulting my parents, I found out that it can be translated to
   "positive". I knew I was onto something, so I began to work on a logo on Adobe
