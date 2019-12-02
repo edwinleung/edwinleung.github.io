@@ -143,16 +143,6 @@ header a {
     z-index: -1;
 }
 
-/*-----work2-----*/
-.work2 {
-    width: 100%;
-    text-align: center;
-}
-.work2 img {
-    margin: 1%;
-    width: 82%;
-}
-
 /*-----footer-----*/
 footer {
     text-align: center;
@@ -172,10 +162,7 @@ footer p {
         margin: 2%;
         width: 96%;
     }
-    work2 a img {
-        margin: 2%;
-        width: 96%
-    }
+
 }
 @media only screen and (max-width: 768px) {
     header {
